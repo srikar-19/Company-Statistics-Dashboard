@@ -118,10 +118,10 @@ The dashboard is divided into categories, each containing relevant widgets that 
 
 * Key features of the Company Statistics Dashboard include:
 
--> Search Functionality.
--> Widget Management ( add or remove widget).
--> Selection or Unselection of specific widgets under that specific dashboard category.
--> Real-Time Data Integration.
+### -> Search Functionality.
+### -> Widget Management ( add or remove widget).
+### -> Selection or Unselection of specific widgets under that specific dashboard category.
+### -> Real-Time Data Integration.
 
 
 
