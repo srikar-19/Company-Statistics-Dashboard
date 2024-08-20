@@ -116,7 +116,7 @@ i.e, if in case you remove any default widget in the dashboard and if you want t
 
 The dashboard is divided into categories, each containing relevant widgets that provide visual insights into different aspects of the company's operations. Users can personalize their dashboard by selecting which widgets to display, making it a powerful tool for monitoring and analyzing business performance in real time.
 
-* Key features of the Company Statistics Dashboard include:
+### * Key features of the Company Statistics Dashboard include:
 
 ### -> Search Functionality.
 ### -> Widget Management ( add or remove widget).
