@@ -1,0 +1,128 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Cloud Accounts",
+            "content": [
+              {
+                "status": "Connected",
+                "count": 2,
+                "color": "#3e98c7"
+              },
+              {
+                "status": "Not Connected",
+                "count": 2,
+                "color": "#d6d6d6"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Cloud Account Risk Assessment",
+            "content": [
+              {
+                "status": "Passed",
+                "count": "4517",
+                "color": "green"
+              },
+              {
+                "status": "Warning",
+                "count": "1493",
+                "color": "#fc8484"
+              },
+              {
+                "status": "Failed",
+                "count": "2251",
+                "color": "red"
+              },
+              {
+                "status": "Not Available",
+                "count": "1598",
+                "color": "#624f00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "CWPP Dashboard",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Top 5 Namespace Specific Alerts",
+            "content": "No Graph Data Available"
+          },
+          {
+            "id": 2,
+            "name": "Worldload Alerts",
+            "content": "No Graph Data Available"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Registery Scan",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Image Risk Assessment",
+            "description": "Total Vulnerabilities",
+            "content": [
+              {
+                "status": "Critical",
+                "count": "9",
+                "color": "#6e0f0a"
+              },
+              {
+                "status": "High",
+                "count": "150",
+                "color": "#c82819"
+              },
+              {
+                "status": "Medium",
+                "count": "800",
+                "color": "#eb9132"
+              },
+              {
+                "status": "Low",
+                "count": "511",
+                "color": "#f0c341"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Image Security Issues",
+            "description": "Total Images",
+            "content": [
+              {
+                "status": "Critical",
+                "count": "2",
+                "color": "#6e0f0a"
+              },
+              {
+                "status": "High",
+                "count": "2",
+                "color": "#c82819"
+              },
+              {
+                "status": "Medium",
+                "count": "2",
+                "color": "#eb9132"
+              },
+              {
+                "status": "Low",
+                "count": "1",
+                "color": "#f0c341"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
