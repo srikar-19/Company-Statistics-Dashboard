@@ -18,7 +18,7 @@ You may also see any lint errors in the console.
 
 # *** STEPS *** 
 
-## To run this project, Change the directory path from your default directory to this project's downloaded folder directory ( using cd) and then,
+### To run this project, Change the directory path from your default directory to this project's downloaded folder directory ( using cd) and then,
 
 ### Firstly you need to install Node.js and then following dependencies :
 
