@@ -2,17 +2,24 @@
 
 In the project directory, you can run:
 
-### `npm start`
+## -> For FRONT-END, run the following command :
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+     npm start
 
 
-#
- STEPS
+## -> For BACK-END, run the following command :
 
-#### To run this project, Change the directory path from your default directory to this project's downloaded folder directory ( using cd) and then,
+    node server.js
 
-#### Firstly you need to install Node.js and then following dependencies :
+
+### -> The main project runs on url : http://localhost:3000/
+
+
+#*** STEPS ***
+
+## To run this project, Change the directory path from your default directory to this project's downloaded folder directory ( using cd) and then,
+
+### Firstly you need to install Node.js and then following dependencies :
 
     -> npm modules
     -> @fortawesome/fontawesome-svg-core
@@ -38,7 +45,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
     -> stream-browserify
 
 
-So, to install above, We can use following corresponding commands :
+### So, to install above, We can use following corresponding commands :
 
     for node.js, just download and install node.js application to your local machine and then you can check the installation status :
 
@@ -72,17 +79,6 @@ So, to install above, We can use following corresponding commands :
 
 **********************
 
--> The main project runs on url : http://localhost:3000/
-
-
--> For FRONT-END, run the following command :
-
-     npm start
-
-
--> For BACK-END, run the following command :
-
-    node server.js
 
 
 After running above two commands, it automatically redirects to the http://localhost:3000/
