@@ -1,6 +1,10 @@
 ## Demo Images and Videos
 
 ![Dashboard Image1](src/images/img1.png)
+![Dashboard Image2](src/images/img2.png)
+![Dashboard Image3](src/images/img3.png)
+![Dashboard Image4](src/images/img4.png)
+![Dashboard Video1](src/images/vid1.mp4)
 
 # Getting Started with Create React App
 
