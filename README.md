@@ -86,11 +86,11 @@ In the project directory, you can run:
 
 **********************
 
-### And now, run the project and you can do various operations on it by adding a widget or removing a widget.But to have a Dashboard Data information, I have a default information or a backup of this particular project which is a .json file and which contains the information like list of dashboard categories, widgets within the category & its id, name, content, status, description etc...
+#### And now, run the project and you can do various operations on it by adding a widget or removing a widget.But to have a Dashboard Data information, I have a default information or a backup of this particular project which is a .json file and which contains the information like list of dashboard categories, widgets within the category & its id, name, content, status, description etc...
 
-### So that default backup dashboard data contains in the separate file which presents in root directory with a name "defaultData.json" file.
+#### So that default backup dashboard data contains in the separate file which presents in root directory with a name "defaultData.json" file.
 
-### i.e, if in case you remove any default widget in the dashboard and if you want that widget or if you need the initial default dashboard data, You can just simply copy that entire dashboard data from that defaultData.json file and you can paste it into the main dashboardData.json file.
+#### i.e, if in case you remove any default widget in the dashboard and if you want that widget or if you need the initial default dashboard data, You can just simply copy that entire dashboard data from that defaultData.json file and you can paste it into the main dashboardData.json file.
 
 
 
