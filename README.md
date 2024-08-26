@@ -98,9 +98,9 @@ In the project directory, you can run:
 
 ## Detailed information of the project and its purpose :
 
-### * Project Name : Company Statistics Dashboard
+### * Project Name : #### Company Statistics Dashboard
 
-### * Project Description: The Company Statistics Dashboard is a dynamic and interactive web application designed to provide a comprehensive overview of key company metrics and statistics. Built using React for the frontend and Redux for state management, the dashboard offers a highly customizable user experience, allowing users to add, remove, and search for widgets that display various data points and performance indicators.
+### * Project Description : #### The Company Statistics Dashboard is a dynamic and interactive web application designed to provide a comprehensive overview of key company metrics and statistics. Built using React for the frontend and Redux for state management, the dashboard offers a highly customizable user experience, allowing users to add, remove, and search for widgets that display various data points and performance indicators.
 
 ### The dashboard is divided into categories, each containing relevant widgets that provide visual insights into different aspects of the company's operations. Users can personalize their dashboard by selecting which widgets to display, making it a powerful tool for monitoring and analyzing business performance in real time.
 
