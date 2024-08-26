@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+#### Firstly, set your directory path correctly. i.e, to this current root folder path (dashboard)
+
 In the project directory, you can run:
 
 ## -> For FRONT-END, run the following command :
