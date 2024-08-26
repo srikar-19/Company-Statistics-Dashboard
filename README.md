@@ -81,38 +81,39 @@ In the project directory, you can run:
 
 
 
-After running above two commands, it automatically redirects to the http://localhost:3000/
+### After running above two commands, it automatically redirects to the http://localhost:3000/
 
 
 **********************
 
-And now, run the project and you can do various operations on it by adding a widget or removing a widget.But to have a Dashboard Data information, I have a default information or a backup of this particular project which is a .json file and which contains the information like list of dashboard categories, widgets within the category & its id, name, content, status, description etc...
+### And now, run the project and you can do various operations on it by adding a widget or removing a widget.But to have a Dashboard Data information, I have a default information or a backup of this particular project which is a .json file and which contains the information like list of dashboard categories, widgets within the category & its id, name, content, status, description etc...
 
-So that default backup dashboard data contains in the separate file which presents in root directory with a name "defaultData.json" file.
+### So that default backup dashboard data contains in the separate file which presents in root directory with a name "defaultData.json" file.
 
-i.e, if in case you remove any default widget in the dashboard and if you want that widget or if you need the initial default dashboard data, You can just simply copy that entire dashboard data from that defaultData.json file and you can paste it into the main dashboardData.json file.
+### i.e, if in case you remove any default widget in the dashboard and if you want that widget or if you need the initial default dashboard data, You can just simply copy that entire dashboard data from that defaultData.json file and you can paste it into the main dashboardData.json file.
 
 
 
 **********************
 
-Detailed information of the project and its purpose :
+## Detailed information of the project and its purpose :
 
-* Project Name : Company Statistics Dashboard
+### * Project Name : Company Statistics Dashboard
 
-* Project Description: The Company Statistics Dashboard is a dynamic and interactive web application designed to provide a comprehensive overview of key company metrics and statistics. Built using React for the frontend and Redux for state management, the dashboard offers a highly customizable user experience, allowing users to add, remove, and search for widgets that display various data points and performance indicators.
+### * Project Description: The Company Statistics Dashboard is a dynamic and interactive web application designed to provide a comprehensive overview of key company metrics and statistics. Built using React for the frontend and Redux for state management, the dashboard offers a highly customizable user experience, allowing users to add, remove, and search for widgets that display various data points and performance indicators.
 
-The dashboard is divided into categories, each containing relevant widgets that provide visual insights into different aspects of the company's operations. Users can personalize their dashboard by selecting which widgets to display, making it a powerful tool for monitoring and analyzing business performance in real time.
+### The dashboard is divided into categories, each containing relevant widgets that provide visual insights into different aspects of the company's operations. Users can personalize their dashboard by selecting which widgets to display, making it a powerful tool for monitoring and analyzing business performance in real time.
 
-* Key features of the Company Statistics Dashboard include:
+## * Key features of the Company Statistics Dashboard include:
 
--> Search Functionality
--> Widget Management ( add or remove widget)
--> Selection or Unselection of specific widgets under that specific dashboard category
--> Real-Time Data Integration
+### -> Search Functionality
+### -> Widget Management ( add or remove widget)
+### -> Selection or Unselection of specific widgets under that specific dashboard category
+### -> Real-Time Data Integration
 
 
 
+**********************
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
