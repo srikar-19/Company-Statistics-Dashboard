@@ -1,21 +1,17 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
+## STEPS
 
-To run this project, Change the directory path from your default directory to this project's downloaded folder directory ( using cd) and then,
+#### To run this project, Change the directory path from your default directory to this project's downloaded folder directory ( using cd) and then,
 
-Firstly you need to install Node.js and then following dependencies :
+#### Firstly you need to install Node.js and then following dependencies :
 
     -> npm modules
     -> @fortawesome/fontawesome-svg-core
