@@ -15,7 +15,7 @@ In the project directory, you can run:
 ### -> The main project runs on url : http://localhost:3000/
 
 
-#*** STEPS ***
+# *** STEPS ***
 
 ## To run this project, Change the directory path from your default directory to this project's downloaded folder directory ( using cd) and then,
 
