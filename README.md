@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![Dashboard Page](D:\PROJECTS\Accuknox Assignment\dashboard\src\images/img1.png)
+![Dashboard Page](src/images/img1.png)
 
 
 
