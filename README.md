@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-#### Firstly, set your directory path correctly. i.e, to this current root folder path (dashboard)
+#### Firstly, set your directory path correctly. i.e, to this current root folder in which you have downloaded this project
 
 In the project directory, you can run:
 
