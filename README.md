@@ -1,3 +1,7 @@
+## Demo Images and Videos
+
+![Dashboard Image1](src/images/img1.png)
+
 # Getting Started with Create React App
 
 #### Firstly, set your directory path correctly. i.e, to this current root folder in which you have downloaded this project
